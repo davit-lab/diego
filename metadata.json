@@ -1,0 +1,11 @@
+{
+  "name": "CloudZero Nexus",
+  "description": "High-performance domain registry and edge-orchestrated hosting platform for modern digital assets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
